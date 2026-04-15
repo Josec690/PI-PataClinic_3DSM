@@ -11,6 +11,7 @@ Este projeto foi realizado com a colaboração dos seguintes membros, listados e
 - <a href="https://www.linkedin.com/in/gustavo-morais-arruda/">Gustavo M.</a>
 - <a href="https://www.linkedin.com/in/joaomaximiano/">João M.</a>
 - <a href="https://www.linkedin.com/in/joseclaudiley/">José C.</a>
+- <a href="https://www.linkedin.com/in/kauan-pires-21aa12288/">Kauan P.</a>
 - <a href="https://www.linkedin.com/in/miguelgomescy/">Miguel G.</a>
 
 ## 🎖️ Menção Honrosa | Professor Orientador
